@@ -46,5 +46,4 @@ func main() {
 	fmt.Println("(this part of the code is only reached when the cli loop returns)")
 
 }
-Status API Training Shop Blog About
-© 2016 GitHub, Inc. Terms Privacy Security Contact Help
+
